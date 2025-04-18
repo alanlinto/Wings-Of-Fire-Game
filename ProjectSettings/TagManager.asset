@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LOS
+  - Grid
+  - Minion
+  - Boss_Projectile
+  - PlayerTrigger
+  - MinionTrigger
+  - BossPlayerDetector
+  - BossFireballTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - WallSolid
+  - Solid
+  - AllTrigger
+  - PlayerTrigger
+  - MinionTrigger
+  - AllyTrigger
+  - BossTrigger
+  - SpellTrigger
+  - BossFireballTrigger
+  - PuddleTrigger
+  - CampFireTrigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Tilemap
+    uniqueID: 2832972759
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Projectiles
+    uniqueID: 543196953
+    locked: 0
